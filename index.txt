@@ -1,1 +1,2 @@
 je suis en train de faire un push 
+je vais faire un git pull
